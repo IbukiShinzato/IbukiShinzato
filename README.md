@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Hi, I'm IbukiShinzato! I'm learning Go at the moment.
+
+<a target="_blank" href="https://www.buymeacoffee.com/egon"><img width="100px" alt="Buy me a Coffee" src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/ninja-3x.gif"></a>
+
+https://atcoder.jp/users/sitz_bnk21
+
 <!--
 **IbukiShinzato/IbukiShinzato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
