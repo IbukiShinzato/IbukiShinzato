@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 Hi, I'm IbukiShinzato! I'm learning Go at the moment.
 
