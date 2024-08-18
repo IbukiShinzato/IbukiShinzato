@@ -1,12 +1,26 @@
 ## Hi there 👋
 
-Hi, I'm IbukiShinzato! I'm learning Go at the moment.
+I'm IbukiShinzato, I am interested in Linux and Rust!
 
-<a target="_blank" href="https://www.buymeacoffee.com/egon"><img width="100px" alt="Buy me a Coffee" src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/ninja-3x.gif"></a>
+<img src="https://github.com/jdrouet/ferris-emoji/blob/main/ferris-hello.gif" alt="Rust" />
 
-<br>
+---
 
-https://atcoder.jp/users/sitz_bnk21
+### 📈 Status
+
+<p align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbukiShinzato&layout=compact&theme=radical&show_icons=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IbukiShinzato&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IbukiShinzato&theme=radical)
+
+---
+
+### 🔗 Connect with me
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+
 
 <!--
 **IbukiShinzato/IbukiShinzato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
