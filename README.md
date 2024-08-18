@@ -2,6 +2,8 @@
 
 I'm IbukiShinzato, I am interested in Linux and Rust!
 
+![](https://komarev.com/ghpvc/?username=IbukiShinzato&color=blueviolet&style=for-the-badge)
+
 <img src="https://github.com/jdrouet/ferris-emoji/blob/main/ferris-hello.gif" alt="Rust" />
 
 ---
@@ -19,7 +21,7 @@ I'm IbukiShinzato, I am interested in Linux and Rust!
 
 ### 🔗 Connect with me
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sitz_bnk21)
 
 
 <!--
