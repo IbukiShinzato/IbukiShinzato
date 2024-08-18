@@ -4,7 +4,7 @@ I'm IbukiShinzato, I am interested in Linux and Rust!
 
 ![](https://komarev.com/ghpvc/?username=IbukiShinzato&color=blueviolet&style=for-the-badge)
 
-<img src="https://github.com/jdrouet/ferris-emoji/blob/main/ferris-hello.gif" alt="Rust" />
+<img src="https://github.com/jdrouet/ferris-emoji/blob/main/ferris-hello.gif" alt="Rust" width="100px"/>
 
 ---
 
