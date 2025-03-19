@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm IbukiShinzato, I'm interested in Linux and Rust!
+I'm IbukiShinzato, I'm interested in OS and Rust!
 
 ![](https://komarev.com/ghpvc/?username=IbukiShinzato&color=blueviolet&style=for-the-badge)
 
