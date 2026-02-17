@@ -8,15 +8,6 @@ I'm IbukiShinzato, I'm interested in OS and Rust!
 
 ---
 
-### 📈 Status
-
-<p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbukiShinzato&layout=compact&theme=radical&show_icons=true" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=IbukiShinzato&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
 ### 🔗 Connect with me
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sitz_bnk21)
